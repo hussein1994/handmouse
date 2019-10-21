@@ -1,4 +1,4 @@
-//py "alfardan1994@gmail.com"
+//"alfardan1994@gmail.com"
 int xh, yh;
 int xcord, ycord;
 const int trigger = 5;
