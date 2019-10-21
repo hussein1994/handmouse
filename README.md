@@ -1,2 +1,2 @@
-# handmouse
-hand mouse with arduino and python
+# air mouse
+Air mouse with arduino and python
